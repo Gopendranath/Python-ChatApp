@@ -14,6 +14,7 @@ This is a real-time chat application built with Flask and Flask-SocketIO. It all
 
 ### Home Page
 ![Home Page](chat-Screenshot.png)
+
 *The landing page where users connect to the chat.*
 
 ---
